@@ -1,0 +1,3 @@
+[submodule "linux59"]
+	path = linux59
+	url = https://gitlab.manjaro.org/packages/core/linux59.git
